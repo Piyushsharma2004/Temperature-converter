@@ -1,4 +1,4 @@
-
+mar
 * {
     margin: 0;
     padding: 0;
@@ -114,7 +114,7 @@
     min-width: 14em;
     height: 13em;
     position: relative;
-    margin-left: 5px;
+    margin-left: 1px;
     box-shadow: 2px 2px rgba(0,0,0,0.15);
    
 }
